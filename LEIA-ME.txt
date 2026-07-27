@@ -1,0 +1,26 @@
+LANDING PAGE — RIZOMA EDUCAÇÃO
+
+O formulário está configurado para enviar as mensagens para:
+rizomaacervo@gmail.com
+
+COMO PUBLICAR PELO NETLIFY DROP
+1. Extraia este arquivo ZIP.
+2. Acesse: https://app.netlify.com/drop
+3. Arraste a pasta inteira "landing_rizoma" para a página.
+4. Aguarde a publicação.
+5. Abra o endereço gerado.
+
+ATIVAÇÃO DO FORMULÁRIO
+- Faça um teste preenchendo o formulário publicado.
+- Na primeira vez, o FormSubmit pode mandar um e-mail de ativação para rizomaacervo@gmail.com.
+- Abra esse e-mail e confirme.
+- Depois disso, as mensagens passam a chegar diretamente na caixa de entrada.
+
+ARQUIVOS
+- index.html: página principal
+- style.css: visual
+- obrigado.html: confirmação após o envio
+- assets/: logo e fotos
+
+IMPORTANTE
+O e-mail aparece no código-fonte porque é usado pelo serviço FormSubmit.
